@@ -25,7 +25,6 @@
 
           shellHook = ''
             echo "It's bunning time!"
-            exec fish
           '';
         };
     };
