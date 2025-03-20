@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "hardhat": "^2.22.19",
+    "solidity": "^0.0.1"
+  }
+}
